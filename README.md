@@ -40,4 +40,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credits to Numbeo for the data, which is available [here](https://www.kaggle.com/datasets/mvieira101/global-cost-of-living).  Otherwise, feel free to use the code here as you would like! 
+Credits to Numbeo for the data, which is available [here](https://www.kaggle.com/datasets/mvieira101/global-cost-of-living).  
