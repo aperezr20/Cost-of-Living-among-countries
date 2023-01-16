@@ -8,7 +8,7 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+Use the Python version 3.7.8 and install the libraries in the requirements.txt file of this repo
 
 ## Project Motivation<a name="motivation"></a>
 
