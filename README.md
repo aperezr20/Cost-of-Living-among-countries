@@ -12,7 +12,7 @@ Use the Python version 3.7.8 and install the libraries in the requirements.txt f
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using the Global Cost of Living data from Kaggle to answer the following:
+For this project, I was interestested in using the Global Cost of Living data from Numbeo to answer the following:
 
 1. What are the countries with highest and lowest Salary-Cost ratio considering the following indicators?
    - Cost of a meal in an inexpensive restaurant
