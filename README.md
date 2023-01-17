@@ -28,7 +28,7 @@ For this project, I was interestested in using the Global Cost of Living data fr
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook available here to show visualizations, tables, and inferences to answer the above questions step by step. The notebook initially describes the data and has markdown cells to guide you throughout the project's questions, process, and conclusions. 
+There is one notebook available in the data folder to show visualizations, tables, and inferences to answer the above questions step by step. The notebook initially describes the data and has markdown cells to guide you throughout the project's questions, process, and conclusions. 
 
 There are two .csv files that contain data about the cost of living in different cities.
 
