@@ -36,7 +36,7 @@ Finally, there are three other files (.dbf, .shp, and .shx) that will be used fo
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@aleperez119/top-5-countries-you-should-move-to-if-you-want-to-increase-your-purchasing-power-b524a6dc1787).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
